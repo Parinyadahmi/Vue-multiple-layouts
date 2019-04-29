@@ -1,0 +1,23 @@
+$primary: #41B883;
+$white: #ffffff;
+
+body {
+  font-family: 'Varela Round', sans-serif;
+}
+
+div, input, button {
+  outline: none !important;
+}
+
+input {
+  box-shadow: none !important;
+
+  &:focus {
+    border-color: $primary !important;
+  }
+}
+
+.button-primary {
+  background-color: $primary;
+  color: $white;
+}

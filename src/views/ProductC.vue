@@ -1,9 +1,8 @@
 <template>
     <div>
 
-
         <div class="mb-3">
-            <h3> Home </h3>
+            <h3>Product C</h3>
         </div>
 
         <div class="mb-3">
@@ -15,6 +14,7 @@
             of Lorem Ipsum.
         </div>
 
+
         <div class="mb-3">
             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make
@@ -23,7 +23,6 @@
             Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions
             of Lorem Ipsum.
         </div>
-
 
 
     </div>
@@ -33,6 +32,6 @@
     // @ is an alias to /src
 
     export default {
-        name: 'home',
+        name: 'product-c',
     }
 </script>
